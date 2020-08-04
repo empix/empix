@@ -1,6 +1,6 @@
 [<img align='right' src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5211d0ed-0a91-4716-afda-dfb7ec276fa1/dbzwfby-6f92e29f-a50b-43d4-b1c2-cae7a77a5a63.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNTIxMWQwZWQtMGE5MS00NzE2LWFmZGEtZGZiN2VjMjc2ZmExXC9kYnp3ZmJ5LTZmOTJlMjlmLWE1MGItNDNkNC1iMWMyLWNhZTdhNzdhNWE2My5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.SIMAfxTSLnXq6QULcVseKO_DHPkrojhNz5KQJNQvPKA" width="230">](http://fav.me/dbzwfby)
 
-Meu nome é Ádrian, tenho 18 anos, estou cursando engenharia de software e <br /> atualmente estou no 2° semestre. Gosto de criar e aprender.
+#### Meu nome é Ádrian, tenho 18 anos, estou cursando engenharia de software e <br /> atualmente estou no 2° semestre. Gosto de criar e aprender.
 
 [![Gmail](https://img.shields.io/badge/-adrian.fr.fe@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:adrian.fr.fe@gmail.com)](mailto:adrian.fr.fe@gmail.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/-Ádrian-0077B5?style=flat-square&logo=linkedin&link=mailto:jotinhave@gmail@gmail.com)](https://www.linkedin.com/) -->
