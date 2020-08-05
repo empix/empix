@@ -3,7 +3,7 @@
 #### Meu nome é Ádrian, tenho 18 anos, estou cursando engenharia de software e <br /> atualmente estou no 2° semestre. Gosto de criar e aprender.
 
 [![Gmail](https://img.shields.io/badge/-adrian.fr.fe@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:adrian.fr.fe@gmail.com)](mailto:adrian.fr.fe@gmail.com)
-<!-- [![LinkedIn](https://img.shields.io/badge/-Ádrian-0077B5?style=flat-square&logo=linkedin&link=mailto:jotinhave@gmail@gmail.com)](https://www.linkedin.com/) -->
+[![Linkedin](https://img.shields.io/badge/-Ádrian-0077B5?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/adrianfrfe/)](https://www.linkedin.com/in/adrianfrfe/) 
 
 <!--
 **empixx/Empixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
