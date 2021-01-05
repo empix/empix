@@ -12,7 +12,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
-Projetos que faço para aplicar o que eu estudo: [https://empix.github.io/portfolio/](https://empix.github.io/portfolio/)
+Projetos que faço para aplicar o que eu estudo: [https://empix.dev/](https://empix.dev/)
 
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) -->
 <!--
