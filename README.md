@@ -2,15 +2,15 @@
 
 <p> Meu nome é Ádrian, tenho 19 anos, estou cursando engenharia de software e <br /> atualmente estou no 3° semestre. Gosto de criar e aprender. </p>
 
-[![Gmail](https://img.shields.io/badge/-adrian.fr.fe@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:adrian.fr.fe@gmail.com)](mailto:adrian.fr.fe@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Ádrian-0077B5?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/adrianfrfe/)](https://www.linkedin.com/in/adrianfrfe/) 
+[![Gmail](https://img.shields.io/badge/-adrian.fr.fe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adrian.fr.fe@gmail.com)](mailto:adrian.fr.fe@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Ádrian-0077B5?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adrianfrfe/)](https://www.linkedin.com/in/adrianfrfe/) 
 
 #### O que estou aprendendo ?
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
-![Git and Github](https://img.shields.io/badge/-Git%20e%20Github-181717?style=flat-square&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![Git and Github](https://img.shields.io/badge/-Git%20e%20Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 Projetos que faço para aplicar o que eu estudo: [https://empix.dev/](https://empix.dev/)
 
