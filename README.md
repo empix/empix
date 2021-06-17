@@ -14,6 +14,8 @@
 
 Projetos que faço para aplicar o que eu estudo: [https://empix.dev/](https://empix.dev/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empix&layout=compact&langs_count=5&theme=react)
+
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) -->
 <!--
 **empixx/Empixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
