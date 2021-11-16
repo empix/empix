@@ -8,6 +8,7 @@
 #### O que estou aprendendo ?
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Git and Github](https://img.shields.io/badge/-Git%20e%20Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -16,7 +17,7 @@ Projetos que faço para aplicar o que eu estudo: [https://empix.dev/](https://em
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empix&layout=compact&langs_count=5&theme=react)
 
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) -->
+
 <!--
 **empixx/Empixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
