@@ -12,6 +12,7 @@
 ![Git and Github](https://img.shields.io/badge/-Git%20e%20Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
 Projetos que faço para aplicar o que eu estudo: [https://empix.dev/](https://empix.dev/)
 
