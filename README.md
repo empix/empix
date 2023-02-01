@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-adrian.fr.fe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adrian.fr.fe@gmail.com)](mailto:adrian.fr.fe@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Ádrian-0077B5?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adrianfrfe/)](https://www.linkedin.com/in/adrianfrfe/) 
 
-#### O que estou aprendendo ?
+---
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -13,8 +13,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
-
-Projetos que faço para aplicar o que eu estudo: [https://empix.dev/](https://empix.dev/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empix&layout=compact&langs_count=5&theme=react)
 
