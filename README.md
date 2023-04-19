@@ -14,7 +14,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empix&layout=compact&langs_count=5&theme=react)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empix&layout=compact&langs_count=5&theme=react) -->
 
 
 <!--
