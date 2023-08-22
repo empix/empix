@@ -2,10 +2,20 @@
 
 <!--<p> Meu nome é Ádrian, tenho 19 anos, estou cursando engenharia de software e <br /> atualmente estou no 4° semestre. Gosto de criar e aprender. </p>-->
 
+### Contato:
 [![Gmail](https://img.shields.io/badge/-adrian.fr.fe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adrian.fr.fe@gmail.com)](mailto:adrian.fr.fe@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Ádrian-0077B5?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adrianfrfe/)](https://www.linkedin.com/in/adrianfrfe/) 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/adrianfrfe/)](https://www.linkedin.com/in/adrianfrfe/) 
 
----
+### Linguagens/Tecnologias que utilizo:
+[![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")](#)
+[![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](#)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql "PostgreSQL")](#)
+[![React](https://skillicons.dev/icons?i=react "React")](#)
+[![AWS](https://skillicons.dev/icons?i=aws "AWS")](#)
+[![DynamoDB](https://skillicons.dev/icons?i=dynamodb "DynamoDB")](#)
+[![Docker](https://skillicons.dev/icons?i=docker "Docker")](#)
+
+<!--
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -14,7 +24,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-
+ -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Empix&layout=compact&langs_count=5&theme=react) -->
 
 
