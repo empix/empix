@@ -12,6 +12,7 @@
 [![AWS](https://skillicons.dev/icons?i=aws "AWS")](#)
 [![DynamoDB](https://skillicons.dev/icons?i=dynamodb "DynamoDB")](#)
 [![Docker](https://skillicons.dev/icons?i=docker "Docker")](#)
+<!-- [![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")](#) -->
 
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
