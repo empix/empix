@@ -24,3 +24,5 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
  -->
+ ---
+![Empix](https://github-readme-stats.vercel.app/api?username=empix&show_icons=true&theme=tokyonight)
